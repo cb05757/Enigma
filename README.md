@@ -1,8 +1,7 @@
 Enigma
 ======
 
-Usage:
-
+Usage:  
 -e = encrypt  
 -d = decrypt
 
