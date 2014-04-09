@@ -2,6 +2,8 @@ Enigma
 ======
 
 Usage:
--e = encrypt
+
+-e = encrypt  
 -d = decrypt
+
 ./enigma -e or -d password infile.txt outfile.txt
