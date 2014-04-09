@@ -1,3 +1,6 @@
+Enigma
+======
+
 Usage:
 -e = encrypt
 -d = decrypt
